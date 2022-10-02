@@ -9,6 +9,7 @@ WINDOW_PADDING: int = 10
 # Definicion de variables (tmp)
 frontmark = "<span foreground=\"#25A18E\" size='50pt'><b>"
 endmark = "</b></span>"
+#probando main branch
 
 
 class View():
